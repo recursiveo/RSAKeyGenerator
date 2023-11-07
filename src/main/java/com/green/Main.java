@@ -16,7 +16,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) throws NoSuchAlgorithmException, IOException, InvalidKeySpecException {
         //generateKeys();
-        readKeys();
+        //readKeys();
     }
 
     private static void generateKeys() throws NoSuchAlgorithmException, IOException {
